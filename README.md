@@ -24,3 +24,5 @@ To Create a class called Pet with the following:
 2. Add a method show_tricks() that prints all learned tricks.
 
 # Output
+![image](https://github.com/user-attachments/assets/d08414f3-c0c9-41e5-8613-fa897212b36c)
+
